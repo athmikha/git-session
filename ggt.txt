@@ -1,1 +1,1 @@
-This line is modifed in branch check
+This line is modifed in branch new-branch
